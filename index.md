@@ -18,7 +18,7 @@ Se precisa de informações sobre as linguagens, veja as seções abaixo...
 - [C](/c)
 - [Python](/python)
 - [JavaScript](/javascript)
-- [Node.js](/node.js)
+- [Node.js](/nodejs)
 
 Talvez você precise saber um pouco sobre [testes unitários](/logica-de-programacao/tdd-junto-com-logica-assim-tao-cedo/)
 e também um pouco sobre o [Linux](/linux) pois iremos utilizar muito o terminal.
