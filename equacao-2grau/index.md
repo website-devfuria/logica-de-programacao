@@ -19,7 +19,6 @@ Lembrando:
     x1    = ( (-b + √Δ)/2a)
     x2    = ( (-b - √Δ)/2a)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Kg7D6Z-Kpq4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 Linguagem C

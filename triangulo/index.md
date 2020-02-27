@@ -18,10 +18,7 @@ Saiba que para formar um triângulo, o valor de cada lado deve ser menor que a s
 - 'a', 'b', e 'c' devem formam um triângulo, a função retorna true
 - se as medidas não formam um triângulo, a função retorna false
 
-
 Utilize programação orientada a objetos.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXOzQ0TCrD0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 

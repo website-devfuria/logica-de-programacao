@@ -46,14 +46,12 @@ Vai exigir um pouco mais de atenção.
 {% include menus.html %}
 
 
-
 ### Lista de Exercícios nível 3
 
 Exercícios para treinar __laços de repetição__.
 
 {% include get-capitulo.html page_serie="logica-nivel-3" %}
 {% include menus.html %}
-
 
 
 ### Lista de Exercícios nível 4
@@ -63,18 +61,13 @@ Exercícios para treinar __vetores__.
 {% include get-capitulo.html page_serie="logica-nivel-4-vetores" %}
 {% include menus.html %}
 
-
-
 Ainda exercícios para treinar vetores, mas desta vez utilizando __strings__.
 
 {% include get-capitulo.html page_serie="logica-nivel-4-strings" %}
 {% include menus.html %}
 
 
-
 ### Lista de Exercícios nível 5
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5tk6ZHFnXws" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Exercícios para treinar __programação orientada a objetos__.
 
@@ -85,14 +78,12 @@ exercícios são de fácil resolução, pois o objetivo é mais entender o parad
 {% include menus.html %}
 
 
-
 ### Lista de Exercícios nível 6
 
 Exercícios para treinar __recursividade__.
 
 {% include get-capitulo.html page_serie="logica-nivel-6" %}
 {% include menus.html %}
-
 
 
 ### Lista de Exercícios nível 7
@@ -103,7 +94,6 @@ Exercícios para treinar algoritmos já consagrados.
 {% include menus.html %}
 
 
-
 ### Lista de Exercícios nível 8
 
 Exercícios para treinar __ponteiros__.
@@ -112,14 +102,12 @@ Exercícios para treinar __ponteiros__.
 {% include menus.html %}
 
 
-
 ### Lista de Exercícios nível 9
 
 Introdução ao [Projeto Euler](https://projecteuler.net/).
 
 {% include get-capitulo.html page_serie="logica-nivel-9" %}
 {% include menus.html %}
-
 
 
 

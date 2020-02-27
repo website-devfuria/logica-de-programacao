@@ -125,8 +125,6 @@ Acho que vou gravar um vídeo para demonstrar isso, o que você acha?
 Linguagem Python
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pfPjRz0xsVk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 Abaixo nosso código inicial escrito em Python, utilize ele para resolver o problema.
 
 

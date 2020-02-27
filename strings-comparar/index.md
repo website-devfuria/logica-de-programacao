@@ -15,8 +15,6 @@ Faça um programa para comparar se duas strings são iguais.
 __Comentários:__ este é mais um exercício para exercitarmos laços de repetição. Esta série referem-se as strings pois,
 sabemos que em C as strings se assemelham a um vetor (`char string[]`).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0qjDromTTy4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 
 
 Linguagem C

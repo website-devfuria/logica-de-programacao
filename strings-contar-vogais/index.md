@@ -12,8 +12,6 @@ Exercício de lógica de programação
 
 Faça um programa que descubra a quantidade de vogais de uma determinada string.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GDLXhYbN50w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 
 Linguagem C
 ---

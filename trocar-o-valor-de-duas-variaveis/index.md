@@ -55,8 +55,6 @@ Agora basta implementar o código e ver os testes passarem.
 Linguagem C
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wYb5EGir9JY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 Como esse é o primeiro exercício vou me estender um pouco mais na explicação do processo de resolução, ok?
 
 Conforme avançarmos pelos exercícios eu vou deixar você na sua responsabilidade para resolver os problemas sozinho.
@@ -174,9 +172,6 @@ Pois bem, isso significa que seu teste passou.
 Linguagem Python
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bh_4HR9RJtU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-
 Em Python seguimos o mesmo esquema, só que aqui é mais fácil pois, não temos que compilar o programa. Python é
 intrepretada e não compilada.
 
@@ -238,8 +233,6 @@ assert b == 999
 
 Linguagem JavaScript (Node.js)
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u4WOiKcvlVU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Em JavaScript muda tudo!
 

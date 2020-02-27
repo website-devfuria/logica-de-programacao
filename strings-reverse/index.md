@@ -12,8 +12,6 @@ Exercício de lógica de programação
 
 Faça um programa que inverta uma string, exemplo: "animal" em "lamina".
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z2-yLaTUWr4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 
 
 Linguagem C

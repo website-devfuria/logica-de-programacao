@@ -14,8 +14,6 @@ Faça um programa para calcular o MDC (máximo divisor comum) entre dois número
 Aconselho a utilizar o __método de divisões sucessivas__, pois você verá que a forma como costumamos resolver problemas
 matemáticos na mão nem sempre é o melhor caminho quando estamos codificando.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lRg8adJf13Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 
 Linguagem C
 ---

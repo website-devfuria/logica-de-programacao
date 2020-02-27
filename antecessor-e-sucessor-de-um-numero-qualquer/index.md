@@ -16,8 +16,6 @@ Escreva um algoritmo para mostrar o sucessor e o antecessor de um número qualqu
 Linguagem C
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XC1ciNZWtd8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 
 Abaixo nosso código inicial escrito em C, utilize ele para resolver o problema.
 
@@ -121,9 +119,6 @@ assert sucessor(10) == 11
 
 Linguagem JavaScript (Node.js)
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-RVvi1sYes4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 
 Abaixo nosso código inicial escrito em JavaScript (Node.js), utilize ele para resolver o problema.
 

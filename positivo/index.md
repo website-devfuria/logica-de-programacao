@@ -12,8 +12,6 @@ Exercício de lógica de programação
 
 Crie uma função que descubra se um valor é positivo ou negativo (considere o valor zero como positivo)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/llCbIfBFU3A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 
 
 Linguagem C

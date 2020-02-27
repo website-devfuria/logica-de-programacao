@@ -125,4 +125,3 @@ E aí, conseguiu entender o que é recursividade?
 Os exemplos mais clássicos de recursão é o algoritmo que calcula o fatorial e o a escala de Fibonacci. Em breve
 escreverei sobre estes dois exemplos, porém neste artigo, eu quis trazer exemplos mais simples para facilitar o entendimento.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lDQZrhrCK_4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

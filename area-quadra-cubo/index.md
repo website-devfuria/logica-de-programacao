@@ -15,8 +15,6 @@ Seu objetivo é construir uma classe denominada `Area` que calcule tanto a área
 
 Utilize programação orientada a objetos.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fkjXWrLgniQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 
 Linguagem C++
 ---

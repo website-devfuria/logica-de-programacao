@@ -16,7 +16,6 @@ Escreva um algoritmo para carregar um vetor com os números de 1 (inclusive) a 5
 linguagem de alto nível e uma de baixo nível. Obviamente que "nível" refere-se a distancia do hardware ou a proximidade
 com o "humano", não tem nada a ver com qualidade, ok?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xrC2BRFEzI4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 Linguagem C

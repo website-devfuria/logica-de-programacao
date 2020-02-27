@@ -25,8 +25,6 @@ Portanto sua função deve...
 - retornar 1 ou mais caso negativo (é ímpar) e
 - retornar 0 caso positivo (é par)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zqo-GvxbVQg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 
 
 Linguagem C

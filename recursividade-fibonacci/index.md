@@ -36,7 +36,6 @@ Então, podemos utilizar como testes os resultados abaixo.
 
 Agora é com você, não vale ver as respostas!!!!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QbGLVG1khSs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 Resultados

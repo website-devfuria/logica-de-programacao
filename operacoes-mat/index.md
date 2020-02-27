@@ -22,8 +22,6 @@ Escreva uma função para cada uma das quatro operações matemáticas simples:
 Linguagem C
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AAil6y5n0Q0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ```c
 #include <stdio.h>
 #include <assert.h>
@@ -114,7 +112,6 @@ int main (){
 Linguagem Python
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Sgy6VlavxQw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ```python
 # -*- coding: utf-8 -*-
@@ -177,8 +174,6 @@ assert 5 == dividir(10, 2)
 
 Linguagem JavaScript (Node.js)
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hz-Js_zoFeQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Abaixo nosso código inicial escrito em JavaScript (Node.js), utilize ele para resolver o problema.
 

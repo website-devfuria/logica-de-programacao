@@ -11,8 +11,6 @@ ordem:       4
 
 Faça um programa para calcular o MMC (mínimo múltiplo comum) entre dois números.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RwlVgRWxVhI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 
 
 ## Linguagem C

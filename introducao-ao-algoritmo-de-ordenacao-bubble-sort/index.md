@@ -1,9 +1,9 @@
 ---
 title:       Introdução ao algoritmo de ordenação Bubble Sort
-description: 
+description:
 capitulo:    logica-nivel-7
 ordem:       1
-ogimage:     algoritmo-bubble-sort.png 
+ogimage:     algoritmo-bubble-sort.png
 ---
 
 Imagine o seguinte vetor.
@@ -12,11 +12,11 @@ Imagine o seguinte vetor.
 
 Faça um algoritmo que ordene o vetor acima.
 
-É disso que este artigo trata, algoritmos de ordenação. 
+É disso que este artigo trata, algoritmos de ordenação.
 
 Existem vários algoritmos para esse fim, neste artigo veremos o mais simples dele: __Bubble Sort__.
 
-> O algoritmo de "ordenação bolha", ou "bubble sort", recebeu este nome pela imagem pitoresca usada para descrevê-lo: 
+> O algoritmo de "ordenação bolha", ou "bubble sort", recebeu este nome pela imagem pitoresca usada para descrevê-lo:
 > os elementos maiores são mais leves, e sobem como bolhas até suas posições corretas.
 >
 > W. Celes e J. L. Rangel
@@ -29,13 +29,13 @@ número de vezes.
 
 De maneira mais formal podemos destacar:
 
-1. Percorra o vetor inteiro comparando elementos adjacentes (dois a dois) 
-2. Troque as posições dos elementos se eles estiverem fora de ordem 
+1. Percorra o vetor inteiro comparando elementos adjacentes (dois a dois)
+2. Troque as posições dos elementos se eles estiverem fora de ordem
 3. Repita os dois passos acima (n - 1) vezes, onde n é igual ao tamanho do vetor
 
 OK, vamos fazer um exemplo para facilitar o entendimento.
 
-Voltemos ao nosso vetor. 
+Voltemos ao nosso vetor.
 
     5, 3, 2, 4, 7, 1, 0, 6
 
@@ -47,7 +47,7 @@ Então, na __primeira iteração__, pegamos os dois primeiros valores e trocamos
 
     (5  3) 2  4  7  1  0  6   pegamos o primeiro par
      3--5  2  4  7  1  0  6   trocamos
-     
+
      3 (5  2) 4  7  1  0  6   pegamos o próximo par
      3  2--5  4  7  1  0  6   trocamos
 
@@ -83,7 +83,7 @@ ainda mais o entendimento.
 
 O próximo vídeo é mais um exemplo do algoritmo Bubble Sort só que há um detalhe importante.
 
-Ele não marca os valores já ordenados, ou seja ele percorre o vetor completamente em cada iteração, o que pode ser 
+Ele não marca os valores já ordenados, ou seja ele percorre o vetor completamente em cada iteração, o que pode ser
 considerado um desperdício. Mas veja o vídeo para entender a diferença.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/otqltM-ou0o" frameborder="0" allowfullscreen></iframe>
@@ -138,5 +138,5 @@ for (k = 1; k < n; k++) {
 ```
 
 
-Veja o [próximo artigo](/logica-de-programacao/exemplos-na-linguagem-c-do-algoritmo-bubble-sort/) 
+Veja o [próximo artigo](/logica-de-programacao/exemplos-na-linguagem-c-do-algoritmo-bubble-sort/)
 para entramos nos detalhes das implementações.

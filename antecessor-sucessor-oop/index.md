@@ -16,8 +16,6 @@ A primeira função mostrará o antecessor de um número qualquer.
 
 A segunda função mostrará o sucessor de um número qualquer.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZxAHPKIKxKc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 
 
 Linguagem C++

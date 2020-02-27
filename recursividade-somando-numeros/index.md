@@ -23,8 +23,6 @@ Já vimos no artigo anterior uma introdução sobre a recursividade (algoritmos 
 
 Este exercício se parece com o Fatorial, parece mas não é, cuidado para não confundir.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xTM9hGPudo8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 
 
 Linguagem C

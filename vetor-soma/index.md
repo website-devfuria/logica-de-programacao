@@ -12,7 +12,6 @@ Exercício de lógica de programação
 
 Crie uma função que retorna a soma de um vetor qualquer
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aBysSOQdL2k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 Linguagem C

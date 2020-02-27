@@ -28,8 +28,6 @@ Utilize orientação a objetos para resolver o problema.
 Como nós já resolvemos este exercício na versão "estruturada" (não utilizamos nem ao menos as funções) eu resolvi
 mostrar algumas particularidades das linguagens Python e JavaScript.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fkJyYbaaD2g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 
 Linguagem C++
 ---

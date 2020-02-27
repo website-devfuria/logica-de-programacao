@@ -14,9 +14,6 @@ Crie um algoritmo para copiar um vetor (utilize laço de repetição).
 
 Use a nomenclatura `vetor1` para o vetor original e `vetor2` para o vetor copiado.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J7uf_rCHvDI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-
 
 
 Linguagem C

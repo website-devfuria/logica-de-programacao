@@ -18,8 +18,6 @@ Utilize as variáveis `valor1`, `valor2` e `valor3`.
 Linguagem C
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MJhCET-9pDk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 Abaixo nosso código inicial escrito em C, utilize ele para resolver o problema.
 
 ```c
@@ -68,8 +66,6 @@ int main (){
 Linguagem Python
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XDS0nwJRLX0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 Abaixo nosso código inicial escrito em Python, utilize ele para resolver o problema.
 
 ```python
@@ -103,9 +99,6 @@ assert 7 == media(6, 7, 8)
 
 Linguagem JavaScript (Node.js)
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/02yw_2G-D-k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 
 Abaixo nosso código inicial escrito em JavaScript (Node.js), utilize ele para resolver o problema.
 

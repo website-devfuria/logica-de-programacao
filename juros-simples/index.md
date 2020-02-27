@@ -22,8 +22,6 @@ Onde:
 
 Vamos imaginar o seguinte cenário: um empréstimo de R$ 16.000,00 sobre a taxa de 4% durante 4 meses.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OepIEvKrBMk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 
 
 Linguagem C

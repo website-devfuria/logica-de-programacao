@@ -23,7 +23,6 @@ esgotar o assunto, muito pelo contrário, o objetivo é simplesmente ser a porta
 Outro ponto a comentar é a questão dos testes, você verá que é difícil determinar o quanto de testes seriam suficientes
 para garantir o correto funcionamento do algoritmo.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LWdR-6JWR0o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 Linguagem C

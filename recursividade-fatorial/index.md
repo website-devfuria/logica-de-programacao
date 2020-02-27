@@ -36,7 +36,6 @@ Atente que `0! = 1` porque o produto vazio (produto de nenhum número) é `1`.
 
 Agora é só trabalhar, não vale ver as respostas!!!!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hvtl_UycWrg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 Resultados

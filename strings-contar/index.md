@@ -16,7 +16,6 @@ Faça um programa para contar a quantidade de caracteres que ela contem.
 
 String é um conjunto de caracteres, mas seu significado por variar de uma linguagem para outra, como veremos neste artigo.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FfgizKwmGeE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 Linguagem C
